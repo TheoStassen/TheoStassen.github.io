@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d08cfe89.chunk.css",
+    "main.js": "/static/js/main.c51a3f08.chunk.js",
+    "main.js.map": "/static/js/main.c51a3f08.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d32ff161.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d32ff161.js.map",
+    "static/js/2.f076bb66.chunk.js": "/static/js/2.f076bb66.chunk.js",
+    "static/js/2.f076bb66.chunk.js.map": "/static/js/2.f076bb66.chunk.js.map",
+    "static/js/3.a58f5969.chunk.js": "/static/js/3.a58f5969.chunk.js",
+    "static/js/3.a58f5969.chunk.js.map": "/static/js/3.a58f5969.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d08cfe89.chunk.css.map": "/static/css/main.d08cfe89.chunk.css.map",
+    "static/js/2.f076bb66.chunk.js.LICENSE.txt": "/static/js/2.f076bb66.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/wp2748622-paper-wallpaper.f01cde0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32ff161.js",
+    "static/js/2.f076bb66.chunk.js",
+    "static/css/main.d08cfe89.chunk.css",
+    "static/js/main.c51a3f08.chunk.js"
+  ]
+}
